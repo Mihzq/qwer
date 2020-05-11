@@ -1,0 +1,10 @@
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\bin\Debug\Load_CPU_RAM.exe.config
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\bin\Debug\Load_CPU_RAM.exe
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\bin\Debug\Load_CPU_RAM.pdb
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.csprojAssemblyReference.cache
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.MainForm.resources
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.Properties.Resources.resources
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.csproj.GenerateResource.cache
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.csproj.CoreCompileInputs.cache
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.exe
+C:\Users\balak\Desktop\Новая папка\Load_CPU_RAM\Load_CPU_RAM\obj\Debug\Load_CPU_RAM.pdb
